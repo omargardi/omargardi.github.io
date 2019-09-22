@@ -1,3 +1,6 @@
+body {
+  background-image: url(images/creat-octocat.png);
+}
 * {
   margin:0px;
   padding:0px;
